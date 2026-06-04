@@ -167,20 +167,16 @@ http://localhost:8501
 
 ### Home Page
 
-(Add screenshot here)
-
 ```markdown
-Screenshots/HP.png
+![Home Page](screenshots/HP.png)
 ```
 
 ### Prediction Result
 
-(Add screenshot here)
-
 ```markdown
-Screenshots/P1.png
+![Prediction Result 1](screenshots/P1.png)
 
-Screenshots/P2.png
+![Prediction Result 2](screenshots/P2.png)
 ```
 
 ---
