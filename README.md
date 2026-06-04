@@ -167,13 +167,13 @@ http://localhost:8501
 
 ### Home Page
 
-![alt text](screenshots/HP.png)
+![alt text](Screenshots/HP.png)
 
 ### Prediction Result
 
-![alt text](screenshots/P1.png)
+![alt text](Screenshots/P1.png)
 
-![alt text](screenshots/P2.png)
+![alt text](Screenshots/P2.png)
 
 ---
 
